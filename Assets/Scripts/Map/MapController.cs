@@ -22,7 +22,7 @@ public class MapController : MonoBehaviour
 
     void Start()
     {
-        playerMovement = FindObjectOfType<PlayerMovement>();
+        playerMovement = FindFirstObjectByType<PlayerMovement>();
         if (playerMovement == null)
         {
             Debug.LogError("PlayerMovement no encontrado en la escena.");

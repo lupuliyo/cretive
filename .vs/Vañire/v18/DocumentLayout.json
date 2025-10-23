@@ -3,113 +3,132 @@
   "WorkspaceRootPath": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|c:\\users\\lupul\\documents\\pene\\va\u00F1ire\\assets\\scripts\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|c:\\users\\lupul\\documents\\pene\\va\u00F1ire\\assets\\scripts\\weapons\\behaviours\\garlicbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\behaviours\\garlicbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\ChunkTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ChunkTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|c:\\users\\lupul\\documents\\pene\\va\u00F1ire\\assets\\scripts\\weapons\\controllers\\garliccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\controllers\\garliccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|c:\\users\\lupul\\documents\\pene\\va\u00F1ire\\assets\\scripts\\weapons\\behaviours\\knifebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\behaviours\\knifebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\assets\\scripts\\proprandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\proprandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|c:\\users\\lupul\\documents\\pene\\va\u00F1ire\\assets\\scripts\\weapons\\base\\weaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\base\\weaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|c:\\users\\lupul\\documents\\pene\\va\u00F1ire\\assets\\scripts\\weapons\\base\\meleeweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\base\\meleeweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|c:\\users\\lupul\\documents\\pene\\va\u00F1ire\\assets\\scripts\\weapons\\base\\projectileweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\base\\projectileweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|c:\\users\\lupul\\documents\\pene\\va\u00F1ire\\assets\\scripts\\weapons\\controllers\\knifecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\controllers\\knifecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 582,
+      "VerticalTabListWidth": 225,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MapController.cs",
-              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\MapController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MapController.cs",
-              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\MapController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MapController.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAAANMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ProjectileWeaponBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Base\\ProjectileWeaponBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Base\\ProjectileWeaponBehaviour.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Base\\ProjectileWeaponBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Base\\ProjectileWeaponBehaviour.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T19:33:17.376Z",
+              "WhenOpened": "2025-10-23T12:27:38.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChunkTrigger.cs",
-              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\ChunkTrigger.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ChunkTrigger.cs",
-              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\ChunkTrigger.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ChunkTrigger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "KnifeBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Behaviours\\KnifeBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Behaviours\\KnifeBehaviour.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Behaviours\\KnifeBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Behaviours\\KnifeBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:42:45.299Z",
+              "WhenOpened": "2025-10-23T12:20:17.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PropRandomizer.cs",
-              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PropRandomizer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PropRandomizer.cs",
-              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PropRandomizer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PropRandomizer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Title": "WeaponController.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Base\\WeaponController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Base\\WeaponController.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Base\\WeaponController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Base\\WeaponController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T19:25:53.65Z",
+              "WhenOpened": "2025-10-23T11:59:02.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KnifeController.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Controllers\\KnifeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Controllers\\KnifeController.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Controllers\\KnifeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Controllers\\KnifeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:58:47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GarlicController.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Controllers\\GarlicController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Controllers\\GarlicController.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Controllers\\GarlicController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Controllers\\GarlicController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:56:49.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CameraMovement.cs",
-              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\CameraMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMovement.cs",
-              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\CameraMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Title": "MeleeWeaponBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Base\\MeleeWeaponBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Base\\MeleeWeaponBehaviour.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Base\\MeleeWeaponBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Base\\MeleeWeaponBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T19:25:53.654Z"
+              "WhenOpened": "2025-10-23T11:53:23.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerAnimator.cs",
-              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PlayerAnimator.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimator.cs",
-              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PlayerAnimator.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerAnimator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBkAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GarlicBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Behaviours\\GarlicBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Behaviours\\GarlicBehaviour.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\Behaviours\\GarlicBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Behaviours\\GarlicBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T19:25:53.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T19:25:53.657Z",
+              "WhenOpened": "2025-10-23T11:44:47.343Z",
               "EditorCaption": ""
             }
           ]

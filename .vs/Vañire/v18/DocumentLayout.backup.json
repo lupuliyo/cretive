@@ -3,30 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|c:\\users\\lupul\\documents\\pene\\va\u00F1ire\\assets\\scripts\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\assets\\scripts\\weapons\\projectileweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapons\\projectileweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|c:\\users\\lupul\\documents\\pene\\va\u00F1ire\\assets\\scripts\\proprandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\proprandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\assets\\scripts\\weapons\\weaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapons\\weaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 152,
+      "VerticalTabListWidth": 582,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -35,66 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MapController.cs",
-              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\MapController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MapController.cs",
-              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\MapController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MapController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAUwB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T19:33:17.376Z",
+              "Title": "ProjectileWeaponBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\ProjectileWeaponBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\ProjectileWeaponBehaviour.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\ProjectileWeaponBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\ProjectileWeaponBehaviour.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADBSURBVDhPY2AYBQwMDAwMN17c\u002BO\u002B1yv2/4ETe/9aLLf7feHH9P7L8vHNz4XxkNhxYLzb/33yo4T8DAwND06GG/16r3FEUCU7khfOR2QwMDAyMMMH3\u002BZ8ZYYK6czX/X06\u002Bzjjv3Nz/xYcLkNXDgausO8OqoDUQPeimogN8LmBC5pADsBqgO1fzPwM0wGA2Ck7kRWGHrQtBuMRzlfv/5sONkEA83PjferEF0YHIwACNRqtF5v8FJ/L\u002B91zpRno0jnAAAA95Yu0ct6ifAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-10-23T11:39:33.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PropRandomizer.cs",
-              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PropRandomizer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PropRandomizer.cs",
-              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PropRandomizer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PropRandomizer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T19:25:53.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CameraMovement.cs",
-              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\CameraMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMovement.cs",
-              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\CameraMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T19:25:53.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerAnimator.cs",
-              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PlayerAnimator.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimator.cs",
-              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PlayerAnimator.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerAnimator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T19:25:53.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T19:25:53.657Z",
+              "Title": "WeaponController.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\WeaponController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponController.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\Weapons\\WeaponController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADBSURBVDhPY2AYBQwMDAwMN17c\u002BO\u002B1yv2/4ETe/9aLLf7feHH9P7L8vHNz4XxkNhxYLzb/33yo4T8DAwND06GG/16r3FEUCU7khfOR2QwMDAyMMMH3\u002BZ8ZYYK6czX/X06\u002Bzjjv3Nz/xYcLkNXDgausO8OqoDUQPeimogN8LmBC5pADsBqgO1fzPwM0wGA2Ck7kRWGHrQtBuMRzlfv/5sONkEA83PjferEF0YHIwACNRqtF5v8FJ/L\u002B91zpRno0jnAAAA95Yu0ct6ifAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-10-23T11:39:33.703Z",
               "EditorCaption": ""
             }
           ]

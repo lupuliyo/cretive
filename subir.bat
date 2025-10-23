@@ -2,7 +2,8 @@
 cd /d %~dp0
 
 :: Establece el remoto correcto por si acaso
-git remote set-url master https://github.com/lupuliyo/cretive
+git remote add origin https://github.com/lupuliyo/cretive.git
+
 
 :: Añade todos los cambios
 git add .
@@ -11,6 +12,6 @@ git add .
 git commit -m "Auto commit desde Windows"
 
 :: Intenta hacer push a main primero, si falla, intenta master
-git push origin main || git push origin master
+git push -u origin main || git push -u origin master
 
 pause
