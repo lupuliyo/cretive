@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|c:\\users\\lupul\\documents\\pene\\va\u00F1ire\\assets\\scripts\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|c:\\users\\lupul\\documents\\pene\\va\u00F1ire\\assets\\scripts\\proprandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\proprandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803EFB1-6484-69DF-5BE5-4E2362B60013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 152,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapController.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\MapController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapController.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\MapController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:33:17.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropRandomizer.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PropRandomizer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PropRandomizer.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PropRandomizer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PropRandomizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:25:53.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMovement.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:25:53.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PlayerAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimator.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PlayerAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAnimator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:25:53.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\lupul\\Documents\\pene\\Va\u00F1ire\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:25:53.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
